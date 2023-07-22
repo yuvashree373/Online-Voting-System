@@ -1,0 +1,9 @@
+,voter_id,Name,Gender,Zone,City,Passw,hasVoted
+0,10001,Deep,Male,West,Erode,abcd,1
+1,10002,Prachi,Female,South,Madurai,abcd,1
+2,10003,Het,Male,East,Thanjavur,abcd,1
+3,10004,Shivanshi,Female,East,Trichy,abcd,1
+4,10005,Rohan,Male,North,Chennai,abcd,0
+5,10006,Yuva,Female,North,Trichy,abcd,1
+6,10007,Priya,Female,South,Tanjore,abcd,1
+7,10008,Monica,Female,East,Salem,abcd,1
